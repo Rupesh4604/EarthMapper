@@ -27,6 +27,8 @@ This is a classification pipeline from various projects that we have worked on o
 * Markov Random Field (MRF)
 * Fully-Connected Conditional Random Field (CRF)
 
+#### For a more detailed explanation, refer to the [PPT](earthmapper_ppt.pptx)/[PDF](earthmapper_paper_review.pdf)
+
 ## Dependencies ##
 * Python 3.5/3.7 (We recommend the [Anaconda Python Distribution](https://www.anaconda.com/download/))
 * numpy, scipy, and matplotlib
